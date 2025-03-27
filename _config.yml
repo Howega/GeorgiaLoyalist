@@ -23,7 +23,7 @@ nav-menu:
   - title: Projects 
     link: Projects 
         submenu:
-      - title: Loyalists In Georgia 
+      - title: Georgia Loyalists
         link: Loyalists 
       - title: Trade Connections
         link: Trade 
