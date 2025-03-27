@@ -3,8 +3,8 @@ baseurl: "/jekyll-project-template" # the name of your github repo
 url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
-description: Your Project Description @ Boston College
+title: "On the Edge of Revolution"
+description: Loyalties in Revolutionary Gerogia 
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
