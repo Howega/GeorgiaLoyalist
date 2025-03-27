@@ -22,7 +22,7 @@ nav-menu:
         link: methods
   - title: Projects 
     link: Projects 
-        submenu:
+    submenu:
       - title: Georgia Loyalists
         link: loyalists 
       - title: Trade Connections
