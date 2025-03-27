@@ -24,9 +24,9 @@ nav-menu:
     link: Projects 
         submenu:
       - title: Georgia Loyalists
-        link: Loyalists 
+        link: loyalists 
       - title: Trade Connections
-        link: Trade 
+        link: trade 
   - title: Reflections
     link: reflections
   - title: Bibliography
