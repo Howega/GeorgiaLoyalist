@@ -20,8 +20,13 @@ nav-menu:
         link: scholarship
       - title: Source & Methods
         link: methods
-  - title: Findings
-    link: findings
+  - title: Projects 
+    link: Projects 
+        submenu:
+      - title: Loyalists In Georgia 
+        link: Loyalists 
+      - title: Trade Connections
+        link: Trade 
   - title: Reflections
     link: reflections
   - title: Bibliography
