@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Context
-permalink: context
+title: About
+permalink: about
 show-title: true
 ---
 
