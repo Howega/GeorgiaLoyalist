@@ -14,6 +14,7 @@ nav-menu:
   - title: Home
     link: index
   - title: Background
+    link: background
     submenu:
       - title: Previous Scholarship
         link: scholarship
