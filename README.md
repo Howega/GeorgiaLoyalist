@@ -1,8 +1,8 @@
-# jekyll-project-template
+# Revolutionary Gerogia 
 
-Write a tagline here!
+Loyalties In Revolutionary Gerogia
 
-By Your Name, Boston College
+By: Garrett Howe, Boston College
 
 ## About
 
