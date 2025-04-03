@@ -4,10 +4,11 @@ title: Home
 show-title: false
 ---
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
+<span class="text-bold font-2xl">Explore the origins of a New Nation through the experiences of Revolutionary Georgia.</span>
 
-1. The project & general background
-2. Who you are
+Wedged between two colonies on opposites sides of the Revolution, geographically, Georgia is unique in the history of the American Revolution. If we consider the conflict as a civil war, that is no colony in which this rang more true than in Georgia. . .  Use these visualizations to learn about the broad influences which pushed Georgians to take sides in this imperial crisis. 
+
+This project is the culmination of two difference investigations into lenses in which to investigate how loyalties are made during the American Revolution. “On the Edge of Revolution” helps us visualize how geography, economics, and trade help shape cultural connections and divide a young English colony living on the edge of revolution. 
 
 ---
 
