@@ -10,6 +10,8 @@ Wedged between two colonies on opposites sides of the Revolution, geographically
 
 This project is the culmination of two difference investigations into lenses in which to investigate how loyalties are made during the American Revolution. “On the Edge of Revolution” helps us visualize how geography, economics, and trade help shape cultural connections and divide a young English colony living on the edge of revolution. 
 
+![View of Savannah as it stood the 29th March,1734](Savannah.jpg)
+
 ---
 
 Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
