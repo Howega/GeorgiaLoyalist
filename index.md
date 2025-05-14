@@ -11,7 +11,7 @@ show-title: false
       This project investigates Georgia during the American Revolution.
       While most historical treatments of Loyalism have focused on New York or the Carolinas, Georgia has often been overlooked—despite being the
       only colony successfully reclaimed by British forces after the outbreak of war. This digital project reconstructs the locations, loss of property, and
-      motivations of Georgia's by mapping key individuals and commerical trade networks from archival sources.
+      motivations of Georgia's Loyalists by mapping key individuals and commercial trade networks.
     </p>
   </div>
 
@@ -27,7 +27,7 @@ show-title: false
       <img src="/assets/img/loyalist-network.jpg" alt="Loyalist network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
       <p class="text-gray-600 mb-4">
-        Explore how Loyalist figures were socially and politically connected. This visualization maps loyalist locations and across the colony.
+        Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and connections across the colony through economic relationships.
       </p>
       <a href="/GeorgiaLoyalist/Gloyalists" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">View Network Map</a>
     </div>
@@ -42,12 +42,22 @@ show-title: false
     </div>
   </div>
 
+  <!-- New Trade Networks Section -->
+  <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center mb-16 max-w-xl">
+    <img src="/assets/img/trade-network.jpg" alt="Trade network visualization" class="rounded-xl mb-4">
+    <h2 class="text-xl font-semibold text-gray-800 mb-2">Trade Network Map</h2>
+    <p class="text-gray-600 mb-4">
+      This visualization explores the flow of goods, credit, and loyalty. Discover how merchant activity and port access shaped the political decisions of frontier communities.
+    </p>
+    <a href="/GeorgiaLoyalist/trade" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">View Trade Networks</a>
+  </div>
+
   <!-- Concluding paragraph -->
   <div class="max-w-4xl text-center">
     <h2 class="text-2xl font-bold text-gray-900 mb-4">Why It Matters</h2>
     <p class="text-lg text-gray-700 leading-relaxed">
       This project challenges traditional narratives of American unity by recovering the voices and choices of those who remained loyal to the British Crown. 
-      Through visualization and archival research, it sheds light on the civil conflict that defined the Revolution in Georgia and helps contextualize 
+      Through visualization and the mapping of commercial and cultural ties, it sheds light on the civil conflict that defined the Revolution in Georgia and helps contextualize 
       the broader complexities of allegiance in the American South.
     </p>
   </div>
