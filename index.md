@@ -45,7 +45,7 @@ show-title: false
     </div>
 
     <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
-      <img src="/assets/img/trade-network.jpg" alt="Trade network visualization" class="rounded-xl mb-4">
+      <img src="assets/trade.jpeg" alt="Trade network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Trade Network Map</h2>
       <p class="text-gray-600 mb-4">
         This visualization explores the flow of goods, credit, and loyalty. Discover how merchant activity and port access shaped the political decisions of frontier communities.
