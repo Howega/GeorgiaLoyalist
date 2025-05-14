@@ -9,8 +9,6 @@ show-title: true
   <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}" alt="Garrett Howe" style="max-width: 200px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);" />
 </p>
 
-### About the Researcher
-
 I’m Garrett Howe, a graduate student in American history at Boston College, specializing in the Revolutionary era and Atlantic studies. Originally from the Southeast, I focus on Georgia’s often-overlooked role in the American Revolution—particularly the lives and loyalties of those who remained loyal to the Crown.
 
 ### Origins of the Project
