@@ -6,7 +6,8 @@ show-title: false
 
 # **Explore the origins of a New Nation through the experiences of Revolutionary Georgia.**
 
-![View of Savannah as it stood the 29th March,1734](assets/img/Savannah.jpg)
+<p align="center">
+    <img src="assets/img/assets/img/Savannah.jpg" />
 
 Wedged between two colonies on opposites sides of the Revolution, geographically, Georgia is unique in the history of the American Revolution. If we consider the conflict as a civil war, that is no colony in which this rang more true than in Georgia. . .  Use these visualizations to learn about the broad influences which pushed Georgians to take sides in this imperial crisis. 
 
@@ -36,6 +37,5 @@ If you want to layout two images side by side, you can use Markdown's tables to 
 
 If you want a single image, center aligned... you have to use raw HTML... use this as a guide, and replace the filename with yours
 
-<p align="center">
-    <img src="assets/img/bcds-logo.webp" />
+
 </p>
