@@ -2,14 +2,7 @@
 layout: page
 title: Trade Connections 
 permalink: trade
-show-title: true
----
-
----
-layout: page
-title: Trade Connections
-permalink: /trade/
-show-title: true
+show-title: False
 ---
 
 <style>
