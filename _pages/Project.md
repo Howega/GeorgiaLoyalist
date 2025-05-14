@@ -7,8 +7,3 @@ show-title: true
 <p align="center">
     <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}" alt="Garrett Howe" style="m300px: 50%; height: auto;" />
  
- i dont code Slightly different from your findings page... this page allows you to self comment about how you might do things different next time, or, what you might do to expand the project if given more time.
-
-Would you use the same data source? The same tools? What do you think might add to this project in the future. In short, try to let someone else know what you think might be the best ways forward if they were to pick it up from here.
-
-For a reflections page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/problems-encountered/).
