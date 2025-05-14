@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project 
-permalink: project
+permalink: Project
 show-title: true
 ---
 
