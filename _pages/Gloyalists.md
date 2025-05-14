@@ -2,7 +2,7 @@
 layout: page
 title: Georgia Loyalists
 permalink: Gloyalists
-show-title: true
+show-title: false
 ---
 
 <!-- Load ArcGIS Web Components -->
