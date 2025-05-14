@@ -6,7 +6,7 @@ title: "On the Edge of Revolution"
 description: "Loyalties in Revolutionary Georgia"
 
 # color theme for links
-theme-color: stone # indigo|yellow|pink|green|stone|
+theme-color: "stone" 
 
 # nav bar settings and links
 nav-menu:
