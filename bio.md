@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: bio
+title: American Loyalists
+permalink: american loyalists
 show-title: true
 ---
 
