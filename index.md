@@ -36,7 +36,7 @@ show-title: false
   <!-- Section with visualizations -->
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl w-full mb-16">
     <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
-      <img src="/assets/img/loyalist-network.jpg" alt="Loyalist network visualization" class="rounded-xl mb-4">
+      <img src="assets/img/arcgis.jpeg" alt="Loyalist network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
       <p class="text-gray-600 mb-4">
         Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and connections across the colony through economic relationships.
