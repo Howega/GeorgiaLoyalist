@@ -13,31 +13,34 @@ theme-color: stone# indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
+  - title: History
     link: background
     submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
+      - title: Loyalists
+        link: 
+      - title: Savannah 
+        link: 
   - title: Projects 
-    link: Projects 
     submenu:
       - title: Georgia Loyalists
         link: loyalists 
       - title: Trade Connections
         link: trade 
-  - title: Reflections
-    link: reflections
-  - title: Bibliography
-    link: bibliography
+  - title: About
+    link: bio
+      submenu:
+      - title: About the Project 
+        link: methods 
+      - title: Bibliography
+        link: bibliography 
+     
 
 # sets whether a search bar appears on the site header
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage:  By Your Name, with the Digital Scholarship Group, Boston College
+footer-message: [CC BY-NC License](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+footer-submessage:  Garrett Howe, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
