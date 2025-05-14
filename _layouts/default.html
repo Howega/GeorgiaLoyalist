@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
 
 <head>
   {%- include head.html -%}
@@ -14,56 +14,61 @@
     }
 
     body {
-      min-height: 100vh;
       display: flex;
       flex-direction: column;
+      min-height: 100vh;
     }
 
-    .site-wrapper,
-    .content-wrapper,
-    .content-container {
+    .site-wrapper {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
       width: 100%;
-      height: 100%;
+    }
+
+    .main-content {
+      flex: 1;
+      width: 100%;
       display: flex;
       flex-direction: column;
       align-items: center;
+      padding-bottom: 2rem; /* Optional spacing before footer */
     }
   </style>
 </head>
 
-<body class="w-full h-full flex flex-col justify-start items-center">
-  <!-- wrapper for site -->
-  <div class="w-full h-full flex flex-col justify-start items-center site-wrapper">
+<body class="w-full flex flex-col min-h-screen">
+
+  <div class="site-wrapper">
+
     {%- include header.html -%}
 
-    <!-- Main Content -->
-    <div class="w-full h-full flex flex-col justify-start items-center content-wrapper">
-      <div class="w-full content-container">
-        {{ content }}
-      </div>
-    </div>
+    <main class="main-content px-4">
+      {{ content }}
+    </main>
 
-    <!-- Optional footer (can be suppressed per site or page) -->
     {% if site.hide-footer != true %}
       {% if page.hide-footer != true %}
         {%- include footer.html -%}
       {% endif %}
     {% endif %}
+
   </div>
 
-  <!-- JS Functions -->
   <script>
     // Set current year in footer
     (function () {
-      if (document.getElementById("get-current-year")) {
-        document.getElementById("get-current-year").innerHTML = new Date().getFullYear();
+      const yearEl = document.getElementById("get-current-year");
+      if (yearEl) {
+        yearEl.textContent = new Date().getFullYear();
       }
     })();
 
     // Mobile nav toggle
     function toggleNavbar(collapseID) {
-      document.getElementById(collapseID).classList.toggle("hidden");
-      document.getElementById(collapseID).classList.toggle("block");
+      const nav = document.getElementById(collapseID);
+      nav.classList.toggle("hidden");
+      nav.classList.toggle("block");
     }
 
     // Dropdown toggle
@@ -78,10 +83,11 @@
 
     // Table of Contents toggle
     function toggleTOC() {
-      var toc = document.getElementById('toc');
-      toc.style.display = toc.style.display === "block" ? "none" : "block";
+      const toc = document.getElementById('toc');
+      toc.style.display = (toc.style.display === "block") ? "none" : "block";
     }
   </script>
-</body>
 
+</body>
 </html>
+
