@@ -5,46 +5,37 @@ permalink: Gloyalists
 show-title: true
 ---
 
-<!-- Load ArcGIS Web Components (only once) -->
+<!-- Load ArcGIS Web Components -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
 
 <style>
-  html, body {
-    margin: 0;
-    padding: 0;
-    min-height: 100%;
-  }
-
-  .map-section {
+  .map-wrapper {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 40px;
-    padding: 60px 0;
-    box-sizing: border-box;
+    gap: 2rem;
+    margin-top: 2rem;
   }
 
   arcgis-embedded-map {
-    width: 90vw;
+    width: 100%;
+    max-width: 1100px;
     height: 45vh;
-    max-width: 1200px;
     border: none;
   }
 </style>
 
-<div class="map-section">
-  <!-- First ArcGIS Map -->
+<div class="map-wrapper">
+  <!-- Loyalist Map -->
   <arcgis-embedded-map 
     item-id="3a94c18237ef410b9f139bc08310136b" 
     theme="light" 
     portal-url="https://bostoncollege.maps.arcgis.com">
   </arcgis-embedded-map>
 
-  <!-- Second ArcGIS Map -->
+  <!-- Trade Connections Map -->
   <arcgis-embedded-map 
     item-id="79f3c93b50e34accb9f5fa62bf724aa6" 
     theme="light" 
-    portal-url="https://bostoncollege.maps.arcgis.com">
-  </arcgis-embedded-map>
-</div>
+    portal-url="https://bostoncollege.maps.arc
