@@ -4,38 +4,39 @@ title: Home
 show-title: false
 ---
 
-# **Explore the origins of a New Nation through the experiences of Revolutionary Georgia.**
+<div class="w-full flex flex-col items-center justify-start p-6 bg-gray-50 min-h-screen">
+  <div class="max-w-5xl text-center">
+    <h1 class="text-4xl font-bold mb-4 text-gray-900">Loyalism in Revolutionary Georgia</h1>
+    <p class="text-lg text-gray-700 mb-6">
+      This digital project explores the lives, motives, and legacies of Loyalists in Georgia during the American Revolution. Using primary sources and modern scholarship, this site reconstructs the social, political, and geographic contours of Loyalist resistance in the Deep South.
+    </p>
+    <a href="/GeorgiaLoyalist/background" class="inline-block bg-blue-600 text-white px-6 py-2 rounded-xl shadow hover:bg-blue-700 transition">
+      Learn More
+    </a>
+  </div>
 
-<p align="center">
-    <img src="assets/img/assets/img/Savannah.jpg" />
+  <div class="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl">
+    <div class="bg-white rounded-2xl shadow p-4">
+      <img src="/assets/img/map_loyalist_network.jpg" alt="Loyalist network map" class="rounded-xl mb-3">
+      <h2 class="text-xl font-semibold text-gray-800">Mapping Loyalty</h2>
+      <p class="text-gray-600">
+        Explore dynamic maps that trace the locations, movement, and alliances of Georgia’s Loyalist population across the southern backcountry.
+      </p>
+    </div>
 
-Wedged between two colonies on opposites sides of the Revolution, geographically, Georgia is unique in the history of the American Revolution. If we consider the conflict as a civil war, that is no colony in which this rang more true than in Georgia. . .  Use these visualizations to learn about the broad influences which pushed Georgians to take sides in this imperial crisis. 
+    <div class="bg-white rounded-2xl shadow p-4">
+      <img src="/assets/img/loyalist_letter.jpg" alt="Loyalist letter example" class="rounded-xl mb-3">
+      <h2 class="text-xl font-semibold text-gray-800">Archival Sources</h2>
+      <p class="text-gray-600">
+        Browse digitized letters, petitions, and military records that give voice to Loyalist individuals and communities across Georgia.
+      </p>
+    </div>
+  </div>
 
-This project is the culmination of two difference investigations into lenses in which to investigate how loyalties are made during the American Revolution. “On the Edge of Revolution” helps us visualize how geography, economics, and trade help shape cultural connections and divide a young English colony living on the edge of revolution. 
-
-
-
-## **Interactive Maps of Revolutionary Georgia**
-This project compiles information from over 40 Loyalist Claims and 200 Ship logs across the Atlantic World. Search and analyze these maps for information on the broad impacts and ramifications trade, culture, and loyalities had on leading the southernmost American colony towards independance.
-
-Loyalist Map     Trade Routes     Pictures 
-
----
-
-Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
-![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
-
----
-
-If you want to layout two images side by side, you can use Markdown's tables to organize them into a table of two or more columns... you can add rows for captions if you want.
-
-
-| ![BCDS Logo](assets/img/bcds-logo.webp) | ![BCDS Logo](assets/img/bcds-logo.webp) |
-| Caption 1 | Caption 2 |
-
----
-
-If you want a single image, center aligned... you have to use raw HTML... use this as a guide, and replace the filename with yours
-
-
-</p>
+  <div class="mt-12 max-w-4xl text-center">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Why Georgia?</h2>
+    <p class="text-gray-700">
+      Georgia’s frontier status, diverse population, and strategic position made it a crucial — and often overlooked — site of Loyalist activity during the Revolution. This project uncovers the deep tensions that shaped political allegiance in a contested colony.
+    </p>
+  </div>
+</div>
