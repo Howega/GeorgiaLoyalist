@@ -29,8 +29,6 @@ Below are a couple of ways you might include images in your site. The simplest i
 If you want to layout two images side by side, you can use Markdown's tables to organize them into a table of two or more columns... you can add rows for captions if you want.
 
 
-![83Draw4bh](https://github.com/user-attachments/assets/47e11e78-2965-4ce3-ad9a-56ca8929145d)
-
 | ![BCDS Logo](assets/img/bcds-logo.webp) | ![BCDS Logo](assets/img/bcds-logo.webp) |
 | Caption 1 | Caption 2 |
 
