@@ -39,15 +39,16 @@ show-title: false
 </div>
 
 
-  <!-- History Links Section -->
-  <div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
-    <a href="/GeorgiaLoyalist/history/colonial-georgia" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
-      Colonial Georgia
-    </a>
-    <a href="/GeorgiaLoyalist/history/loyalists" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
-      Loyalists in the Revolution
-    </a>
-  </div>
+<!-- History Links Section -->
+<div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
+  <a href="/GeorgiaLoyalist/history/colonial-georgia.html" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+    Colonial Georgia
+  </a>
+  <a href="/GeorgiaLoyalist/history/loyalists.html" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+    Loyalists in the Revolution
+  </a>
+</div>
+
 
   <!-- Section with visualizations -->
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl w-full mb-16">
