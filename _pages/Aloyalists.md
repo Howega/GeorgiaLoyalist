@@ -13,4 +13,6 @@ The turning point came in 1782, when British forces evacuated Savannah and revol
 
 Thousands fled the colony, seeking refuge in East Florida, the Bahamas, Nova Scotia, or Britain. Many left behind generational landholdings, only to face uncertain futures in unfamiliar places. Their property was redistributed through public auction, often awarded to revolutionary soldiers, officials, and political allies.
 
+---
+
 The Loyalists map visualization on this site documents this often-forgotten side of the Revolution: where Loyalists lived, how they served, and what they lost. By tracing their geographic spread—from Savannah to the interior—it reveals the depth of loyalty to the Crown and the far-reaching consequences of choosing the losing side.
