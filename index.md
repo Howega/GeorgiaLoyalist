@@ -41,10 +41,10 @@ show-title: false
 
 <!-- History Links Section -->
 <div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
-  <a href="/GeorgiaLoyalist/background.html" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+  <a href="/GeorgiaLoyalist/background" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
     Colonial Georgia
   </a>
-  <a href="/GeorgiaLoyalist/aloyalists.html" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+  <a href="/GeorgiaLoyalist/Aloyalists" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
     Loyalists in the Revolution
   </a>
 </div>
