@@ -16,18 +16,19 @@ show-title: true
     align-items: center;
     gap: 2rem;
     margin-top: 2rem;
+    padding: 1rem;
   }
 
   arcgis-embedded-map {
-    width: 100%;
-    max-width: 1100px;
-    height: 45vh;
+    width: 95vw;
+    max-width: 1200px;
+    height: 60vh;
     border: none;
   }
 </style>
 
 <div class="map-wrapper">
-  <!-- Loyalist Map -->
+  <!-- Loyalist Distribution Map -->
   <arcgis-embedded-map 
     item-id="3a94c18237ef410b9f139bc08310136b" 
     theme="light" 
@@ -38,4 +39,7 @@ show-title: true
   <arcgis-embedded-map 
     item-id="79f3c93b50e34accb9f5fa62bf724aa6" 
     theme="light" 
-    portal-url="https://bostoncollege.maps.arc
+    portal-url="https://bostoncollege.maps.arcgis.com">
+  </arcgis-embedded-map>
+</div>
+
