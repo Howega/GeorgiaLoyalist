@@ -39,7 +39,7 @@ show-title: false
       <img src="assets/img/arcgis.jpeg" alt="Loyalist network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
       <p class="text-gray-600 mb-4">
-        Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and connections across the colony through economic relationships.
+        Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and property lost after exile.
       </p>
       <a href="/GeorgiaLoyalist/Gloyalists" class="bg-black text-white px-5 py-2 rounded-xl hover:bg-gray-800 transition">View Network Map</a>
     </div>
@@ -48,7 +48,7 @@ show-title: false
       <img src="assets/img/trade.jpeg" alt="Trade network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Trade Network Map</h2>
       <p class="text-gray-600 mb-4">
-        This visualization explores the flow of goods, credit, and loyalty. Discover how merchant activity and port access shaped the political decisions of frontier communities.
+        This visualization explores the flow of goods, people, and culture. Discover how merchant activity and port access shaped the political decisions of a growing colony.
       </p>
       <a href="/GeorgiaLoyalist/trade" class="bg-black text-white px-5 py-2 rounded-xl hover:bg-gray-800 transition">View Trade Networks</a>
     </div>
