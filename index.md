@@ -34,13 +34,15 @@ show-title: false
 
     <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
       <img src="/assets/img/loyalist-petition.jpg" alt="Petition image" class="rounded-xl mb-4">
-      <h2 class="text-xl font-semibold text-gray-800 mb-2">Interactive Petition Map</h2>
+      <h2 class="text-xl font-semibold text-gray-800 mb-2">Background: Loyalists & Colonial Georgia</h2>
       <p class="text-gray-600 mb-4">
-        A geospatial map that tracks where pro-British petitioners lived and moved during the war. Discover patterns in how Loyalists mobilized support.
+        Learn more about the social, economic, and political context that shaped Georgia’s role in the American Revolution. These background pages explore the colony's founding and development, as well as the experiences and perspectives of Loyalists who remained loyal to the Crown.
       </p>
-      <a href="/GeorgiaLoyalist/background" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">Explore Petition Map</a>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="/GeorgiaLoyalist/history/colonial-georgia" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">Colonial Georgia</a>
+        <a href="/GeorgiaLoyalist/history/loyalists" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">Loyalists in the Revolution</a>
+      </div>
     </div>
-  </div>
 
   <!-- New Trade Networks Section -->
   <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center mb-16 max-w-xl">
