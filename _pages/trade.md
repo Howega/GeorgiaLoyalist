@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Georgia Loyalists
-permalink: loyalists
+title: Trade Connections
+permalink: trade
 show-title: true
 ---
 
