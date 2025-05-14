@@ -13,7 +13,7 @@ Wedged between two colonies on opposites sides of the Revolution, geographically
 
 This project is the culmination of two difference investigations into lenses in which to investigate how loyalties are made during the American Revolution. “On the Edge of Revolution” helps us visualize how geography, economics, and trade help shape cultural connections and divide a young English colony living on the edge of revolution. 
 
----
+
 
 ## **Interactive Maps of Revolutionary Georgia**
 This project compiles information from over 40 Loyalist Claims and 200 Ship logs across the Atlantic World. Search and analyze these maps for information on the broad impacts and ramifications trade, culture, and loyalities had on leading the southernmost American colony towards independance.
