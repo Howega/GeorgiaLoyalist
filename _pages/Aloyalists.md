@@ -7,8 +7,8 @@ show-title: true
 
 <div class="max-w-5xl mx-auto">
 
-  <div class="float-right ml-6 mb-4 w-[300px]">
-  <img src="/assets/img/Judgment.jpg" alt="Tory's Day of Judgment" class="rounded-xl shadow-lg w-full h-auto">
+<div class="float-right ml-6 mb-4 w-[300px]">
+  <img src="/GeorgiaLoyalist/assets/img/Judgment.jpg" alt="Tory's Day of Judgment" class="rounded-xl shadow-lg w-full h-auto">
   <p class="text-sm text-gray-500 text-center mt-1">“The Tory’s Day of Judgment,” c. 1783</p>
 </div>
 
