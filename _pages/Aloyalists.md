@@ -1,6 +1,6 @@
 ---
 layout: page
-title: American Loyalists
+title: AMERICAN LOYALISTS
 permalink: Aloyalists
 show-title: true
 ---
