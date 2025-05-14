@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gerogia Loyalists
-permalink: loyalists
+permalink: georgia loyalists
 show-title: true
 ---
 
