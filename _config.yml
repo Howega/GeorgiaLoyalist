@@ -1,12 +1,12 @@
-baseurl: "/GeorgiaLoyalist" 
-url: "https://howega.github.io" 
+baseurl: "/GeorgiaLoyalist"
+url: "https://howega.github.io"
 
 # site information used in page title, meta data etc.
 title: "On the Edge of Revolution"
 description: "Loyalties in Revolutionary Georgia"
 
 # color theme for links
-theme-color: "stone" 
+theme-color: "stone" # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
 nav-menu:
@@ -30,11 +30,11 @@ nav-menu:
         link: Project 
       - title: Bibliography
         link: bibliography 
-     
+
 # sets whether a search bar appears on the site header
 search-bar: false
 
-hide-footer: false # set to true to hide the footer
+hide-footer: false
 footer-message: "[CC BY-NC License](https://creativecommons.org/licenses/by-nc/4.0/deed.en)"
 footer-submessage: "Garrett Howe, with the Digital Scholarship Group, Boston College"
 footer-submessage-link: "https://ds.bc.edu"
