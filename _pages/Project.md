@@ -5,7 +5,7 @@ permalink: Project
 show-title: true
 ---
 <p align="center">
-    <img src="assets/img/garrett.JPG" />
+    <img src="![IMG_0528](https://github.com/user-attachments/assets/96bb4f2d-b080-413a-b5cc-9b3e6d6b5d4d)" />
 </p>
  
  i dont code Slightly different from your findings page... this page allows you to self comment about how you might do things different next time, or, what you might do to expand the project if given more time.
