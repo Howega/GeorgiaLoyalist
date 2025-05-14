@@ -18,7 +18,7 @@ show-title: false
   <!-- Image block -->
   <div class="w-full max-w-4xl mb-12">
     <img src="assets/img/Savannah.jpg" alt="Map of Georgia, 1779" class="rounded-xl shadow-lg mx-auto">
-    <p class="text-center text-sm text-gray-500 mt-2">Map of Georgia during British occupation (c. 1779)</p>
+    <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
   </div>
 
 <!-- History Links Section -->
