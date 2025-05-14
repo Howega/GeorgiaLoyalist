@@ -5,69 +5,44 @@ permalink: Gloyalists
 show-title: true
 ---
 
-<!-- Load the ArcGIS Web Components -->
+<!-- Load ArcGIS Web Components -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
 
 <style>
-  html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-  }
-
-  .map-container {
-    width: 100%;
-    height: 100vh; /* full height of viewport */
+  .map-row {
     display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
+    gap: 40px;
+    padding: 40px 0;
   }
 
   arcgis-embedded-map {
-    width: 90vw;  /* 90% of viewport width */
-    height: 45vh; /* 45% of viewport height per map */
-    max-width: 1200px;
+    width: 700px;
+    height: 600px;
+    border: none;
+  }
+
+  @media (max-width: 768px) {
+    arcgis-embedded-map {
+      width: 90vw;
+      height: 400px;
+    }
   }
 </style>
 
-<div class="map-container">
+<div class="map-row">
+  <!-- Map 1 -->
   <arcgis-embedded-map 
     item-id="3a94c18237ef410b9f139bc08310136b" 
     theme="light" 
     portal-url="https://bostoncollege.maps.arcgis.com">
   </arcgis-embedded-map>
 
-  <!-- Add script to the <head> of your page to load the embeddable map component -->
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
-<style>
-  html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-  }
-
-  .map-container {
-    width: 100%;
-    height: 100vh; /* full height of viewport */
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  arcgis-embedded-map {
-    width: 90vw;  /* 90% of viewport width */
-    height: 45vh; /* 45% of viewport height per map */
-    max-width: 1200px;
-  }
-</style>
-
-<div class="map-container">
+  <!-- Map 2 -->
   <arcgis-embedded-map 
-    item-id="3a94c18237ef410b9f139bc08310136b" 
+    item-id="79f3c93b50e34accb9f5fa62bf724aa6" 
     theme="light" 
     portal-url="https://bostoncollege.maps.arcgis.com">
   </arcgis-embedded-map>
+</div>
