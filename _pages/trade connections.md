@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade Connections
-permalink: trade
+permalink: trade connections
 show-title: true
 ---
 
