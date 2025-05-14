@@ -6,7 +6,7 @@ show-title: true
 ---
 
 <p align="right">
-    <img src="assets/img/assets/The-Tory’s-Day-of-Judgment.jpg" alt="Tory's Day of Judgment"
+    <img src="assets/img/Judgment.jpg" alt="Tory's Day of Judgment"
          style="float: right; margin: 0 0 1rem 1rem; width: 300px; height: auto;" />
 <p>
 Though often overshadowed by the Patriot narrative, Loyalists played a central role in Revolutionary Georgia, particularly in regions tied to royal authority, commercial exchange, and the defense of slavery. Loyalist support was especially strong in Savannah, the colonial capital, where many merchants, royal officials, and Anglican elites viewed rebellion as a direct threat to economic stability and social hierarchy.
