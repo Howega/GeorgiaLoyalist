@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Loyalists
+title: Georgia Loyalists
 permalink: loyalists
 show-title: true
 ---
