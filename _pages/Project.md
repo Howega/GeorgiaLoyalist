@@ -4,7 +4,7 @@ title: About the Project
 permalink: Project
 show-title: true
 ---
-!<p align="center">
+<p align="center">
     <img src="assets/img/IMG_0528.JPG" />
  
  i dont code Slightly different from your findings page... this page allows you to self comment about how you might do things different next time, or, what you might do to expand the project if given more time.
