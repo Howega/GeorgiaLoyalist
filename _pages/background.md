@@ -7,10 +7,10 @@ show-title: true
 
 <div class="max-w-5xl mx-auto">
 
-  <div class="float-right ml-6 mb-4 w-[300px]">
-    <img src="/assets/img/Georgiamap1748.jpeg" alt="Map of Georgia, 1748" class="rounded-xl shadow-lg w-full h-auto">
-    <p class="text-sm text-gray-500 text-center mt-1">Map of Georgia (c. 1748)</p>
-  </div>
+<div class="float-right ml-6 mb-4 w-[300px]">
+  <img src="/GeorgiaLoyalist/assets/img/Georgiamap1748.jpeg" alt="Map of Georgia, 1748" class="rounded-xl shadow-lg w-full h-auto">
+  <p class="text-sm text-gray-500 text-center mt-1">Map of Georgia (c. 1748)</p>
+</div>
 
   <p class="text-lg text-gray-700 leading-relaxed">
     By the eve of the American Revolution, Georgia had transformed from a struggling frontier outpost into a growing plantation society. Originally established in 1732 as a utopian buffer against Spanish Florida, the colony abandoned its founding ideals by mid-century. The legalization of slavery in 1750 and the transition to royal governance in 1752 accelerated its integration into the plantation economy of the Lower South.
