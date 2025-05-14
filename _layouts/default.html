@@ -30,9 +30,13 @@
       flex: 1;
       width: 100%;
       display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding-bottom: 2rem; /* Optional spacing before footer */
+      justify-content: center; /* Center the content horizontally */
+      padding: 2rem 1rem;
+    }
+
+    .content-container {
+      width: 100%;
+      max-width: 1200px;
     }
   </style>
 </head>
@@ -43,8 +47,10 @@
 
     {%- include header.html -%}
 
-    <main class="main-content px-4">
-      {{ content }}
+    <main class="main-content">
+      <div class="content-container">
+        {{ content }}
+      </div>
     </main>
 
     {% if site.hide-footer != true %}
@@ -56,7 +62,6 @@
   </div>
 
   <script>
-    // Set current year in footer
     (function () {
       const yearEl = document.getElementById("get-current-year");
       if (yearEl) {
@@ -64,14 +69,12 @@
       }
     })();
 
-    // Mobile nav toggle
     function toggleNavbar(collapseID) {
       const nav = document.getElementById(collapseID);
       nav.classList.toggle("hidden");
       nav.classList.toggle("block");
     }
 
-    // Dropdown toggle
     function openDropdown(event, dropdownID) {
       let element = event.target;
       while (element.nodeName !== "A") {
@@ -81,7 +84,6 @@
       document.getElementById(dropdownID).classList.toggle("block");
     }
 
-    // Table of Contents toggle
     function toggleTOC() {
       const toc = document.getElementById('toc');
       toc.style.display = (toc.style.display === "block") ? "none" : "block";
@@ -90,4 +92,3 @@
 
 </body>
 </html>
-
