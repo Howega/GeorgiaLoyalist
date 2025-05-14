@@ -12,7 +12,7 @@ show-title: true
   html, body {
     margin: 0;
     padding: 0;
-    height: 100%;
+    min-height: 100%;
   }
 
   .map-section {
@@ -21,7 +21,8 @@ show-title: true
     flex-direction: column;
     align-items: center;
     gap: 40px;
-    padding: 40px 0;
+    padding: 60px 0;
+    box-sizing: border-box;
   }
 
   arcgis-embedded-map {
