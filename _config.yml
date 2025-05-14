@@ -28,7 +28,7 @@ nav-menu:
   - title: About
       submenu:
       - title: About the Project 
-        link: About the Project 
+        link: project 
       - title: Bibliography
         link: bibliography 
      
