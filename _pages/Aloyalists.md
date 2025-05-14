@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Findings
-permalink: findings
+title: American Loyalists
+permalink: Aloyalists
 show-title: true
 ---
 
