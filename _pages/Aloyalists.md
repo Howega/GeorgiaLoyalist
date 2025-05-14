@@ -5,6 +5,8 @@ permalink: Aloyalists
 show-title: true
 ---
 
+assets/The-Tory’s-Day-of-Judgment.jpg
+
 Though often overshadowed by the Patriot narrative, Loyalists played a central role in Revolutionary Georgia, particularly in regions tied to royal authority, commercial exchange, and the defense of slavery. Loyalist support was especially strong in Savannah, the colonial capital, where many merchants, royal officials, and Anglican elites viewed rebellion as a direct threat to economic stability and social hierarchy.
 
 Loyalist sentiment, however, was not confined to the coast. Support for the Crown extended across the colony, particularly in coastal parishes where rice and indigo planters were economically dependent on imperial markets and fearful of revolutionary upheaval. In the backcountry, too, British loyalty found fertile ground. Areas like Augusta—a key hub for Native diplomacy and the deerskin trade—saw Loyalist strength among Indian agents, traders, and settlers who had long relied on British alliances and protections. In both regions, local militias raised in defense of the Crown clashed with Patriot forces, revealing a revolution that was not just anti-colonial, but deeply civil in nature.
