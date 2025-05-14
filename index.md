@@ -22,13 +22,13 @@ show-title: false
     <!-- Savannah map -->
     <div class="flex-1">
       <img src="assets/img/Savannah.jpg" alt="Map of Savannah, 1733" class="rounded-xl shadow-lg w-full">
-      <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
+      <p class="text-center text-sm text-gray-500 mt-2"></p>
     </div>
 
     <!-- Additional image -->
     <div class="flex-1">
       <img src="assets/img/loyalist.jpeg" alt="A Captured Loyalist" class="rounded-xl shadow-lg w-full">
-      <p class="text-center text-sm text-gray-500 mt-2">[Your second image caption]</p>
+      <p class="text-center text-sm text-gray-500 mt-2"></p>
     </div>
 
   </div>
