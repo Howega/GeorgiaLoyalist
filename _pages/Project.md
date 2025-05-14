@@ -9,7 +9,7 @@ show-title: true
   <!-- Image on the left -->
   <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}"
        alt="Garrett Howe"
-       class="rounded-xl shadow-lg w-[150px] h-auto">
+       class="rounded-xl shadow-lg w-[180px] h-auto">
 
   <!-- Text on the right -->
   <p class="text-gray-700 text-lg leading-relaxed">
