@@ -18,13 +18,13 @@ nav-menu:
       - title: Revolutionary Georgia
         link: background
       - title: American Loyalists
-        link: american loyalists
+        link: Aloyalists
   - title: Projects 
     submenu:
       - title: Georgia Loyalists
-        link: georgia loyalists 
+        link: Gloyalists 
       - title: Trade Connections
-        link: trade connections 
+        link: trade 
   - title: About
     submenu:
       - title: About the Project 
