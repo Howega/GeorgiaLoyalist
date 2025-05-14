@@ -5,7 +5,7 @@ permalink: Project
 show-title: true
 ---
 <p align="center">
-    <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}" alt="Garrett Howe" style="max-width: 50%; height: auto;" />
+    <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}" alt="Garrett Howe" style="m300px: 50%; height: auto;" />
  
  i dont code Slightly different from your findings page... this page allows you to self comment about how you might do things different next time, or, what you might do to expand the project if given more time.
 
