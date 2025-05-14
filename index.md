@@ -15,40 +15,43 @@ show-title: false
     </p>
   </div>
 
-  <!-- Image block -->
-  <div class="w-full max-w-4xl mb-12">
-    <img src="assets/img/Savannah.jpg" alt="Map of Georgia, 1779" class="rounded-xl shadow-lg mx-auto">
-    <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
+  <!-- Centered Image block -->
+  <div class="w-full flex justify-center mb-12">
+    <div class="max-w-4xl">
+      <img src="assets/img/Savannah.jpg" alt="Map of Georgia, 1779" class="rounded-xl shadow-lg mx-auto">
+      <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
+    </div>
   </div>
 
-<!-- History Links Section -->
-<div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
-  <a href="/GeorgiaLoyalist/history/colonial-georgia" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
-    Colonial Georgia
-  </a>
-  <a href="/GeorgiaLoyalist/history/loyalists" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
-    Loyalists in the Revolution
-  </a>
-</div>
-
-<!-- Section with visualizations -->
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl w-full mb-16">
-  <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
-    <img src="/assets/img/loyalist-network.jpg" alt="Loyalist network visualization" class="rounded-xl mb-4">
-    <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
-    <p class="text-gray-600 mb-4">
-      Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and connections across the colony through economic relationships.
-    </p>
-    <a href="/GeorgiaLoyalist/Gloyalists" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">View Network Map</a>
+  <!-- History Links Section -->
+  <div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
+    <a href="/GeorgiaLoyalist/history/colonial-georgia" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+      Colonial Georgia
+    </a>
+    <a href="/GeorgiaLoyalist/history/loyalists" class="bg-black text-white px-6 py-3 rounded-xl text-center hover:bg-gray-800 transition w-full sm:w-auto">
+      Loyalists in the Revolution
+    </a>
   </div>
 
-  <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
-    <img src="/assets/img/trade-network.jpg" alt="Trade network visualization" class="rounded-xl mb-4">
-    <h2 class="text-xl font-semibold text-gray-800 mb-2">Trade Network Map</h2>
-    <p class="text-gray-600 mb-4">
-      This visualization explores the flow of goods, credit, and loyalty. Discover how merchant activity and port access shaped the political decisions of frontier communities.
-    </p>
-    <a href="/GeorgiaLoyalist/trade" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">View Trade Networks</a>
+  <!-- Section with visualizations -->
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl w-full mb-16">
+    <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
+      <img src="/assets/img/loyalist-network.jpg" alt="Loyalist network visualization" class="rounded-xl mb-4">
+      <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
+      <p class="text-gray-600 mb-4">
+        Explore how commercial trade created cultural ties which influenced Georgians' loyalties. This visualization maps Loyalist locations and connections across the colony through economic relationships.
+      </p>
+      <a href="/GeorgiaLoyalist/Gloyalists" class="bg-black text-white px-5 py-2 rounded-xl hover:bg-gray-800 transition">View Network Map</a>
+    </div>
+
+    <div class="bg-white shadow rounded-2xl p-6 flex flex-col items-center text-center">
+      <img src="/assets/img/trade-network.jpg" alt="Trade network visualization" class="rounded-xl mb-4">
+      <h2 class="text-xl font-semibold text-gray-800 mb-2">Trade Network Map</h2>
+      <p class="text-gray-600 mb-4">
+        This visualization explores the flow of goods, credit, and loyalty. Discover how merchant activity and port access shaped the political decisions of frontier communities.
+      </p>
+      <a href="/GeorgiaLoyalist/trade" class="bg-black text-white px-5 py-2 rounded-xl hover:bg-gray-800 transition">View Trade Networks</a>
+    </div>
   </div>
 
   <!-- Concluding paragraph -->
@@ -61,3 +64,4 @@ show-title: false
     </p>
   </div>
 </div>
+
