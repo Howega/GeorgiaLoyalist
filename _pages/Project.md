@@ -5,11 +5,17 @@ permalink: Project
 show-title: true
 ---
 
-<p align="center">
-  <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}" alt="Garrett Howe" style="max-width: 200px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);" />
-</p>
+<div class="w-full flex flex-col md:flex-row items-center md:items-start gap-6 max-w-5xl mx-auto mb-12">
+  <!-- Image on the left -->
+  <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}"
+       alt="Garrett Howe"
+       class="rounded-xl shadow-lg w-[250px] h-auto">
 
-I’m Garrett Howe, a graduate student in American history at Boston College, specializing in the Revolutionary era and Atlantic studies. Originally from the Southeast, I focus on Georgia’s often-overlooked role in the American Revolution—particularly the lives and loyalties of those who remained loyal to the Crown.
+  <!-- Text on the right -->
+  <p class="text-gray-700 text-lg leading-relaxed">
+    I’m Garrett Howe, a graduate student in American history at Boston College, specializing in the Revolutionary era and Atlantic studies. Originally from the Southeast, I focus on Georgia’s often-overlooked role in the American Revolution—particularly the lives and loyalties of those who remained loyal to the Crown.
+  </p>
+</div>
 
 ### Origins of the Project
 
