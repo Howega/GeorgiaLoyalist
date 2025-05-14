@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background
+title: History
 permalink: background
 show-title: true
 ---
