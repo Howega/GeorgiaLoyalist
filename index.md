@@ -8,10 +8,10 @@ show-title: false
   <div class="max-w-5xl text-center mb-12">
     <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Loyalism in Revolutionary Georgia</h1>
     <p class="text-lg text-gray-700 leading-relaxed">
-      This project investigates the contested and fluid nature of political allegiance in the backcountry of Georgia during the American Revolution.
+      This project investigates Georgia during the American Revolution.
       While most historical treatments of Loyalism have focused on New York or the Carolinas, Georgia has often been overlooked—despite being the
-      only colony successfully reclaimed by British forces after the outbreak of war. This digital project reconstructs the networks, movements, and
-      motivations of Georgia's Loyalists by mapping key individuals, petitions, and military activity from archival sources.
+      only colony successfully reclaimed by British forces after the outbreak of war. This digital project reconstructs the locations, loss of property, and
+      motivations of Georgia's by mapping key individuals and commerical trade networks from archival sources.
     </p>
   </div>
 
@@ -27,7 +27,7 @@ show-title: false
       <img src="/assets/img/loyalist-network.jpg" alt="Loyalist network visualization" class="rounded-xl mb-4">
       <h2 class="text-xl font-semibold text-gray-800 mb-2">Loyalist Network Visualization</h2>
       <p class="text-gray-600 mb-4">
-        Explore how Loyalist figures were socially and politically connected. This visualization maps overlapping personal, familial, and military relationships across the colony.
+        Explore how Loyalist figures were socially and politically connected. This visualization maps loyalist locations and across the colony.
       </p>
       <a href="/GeorgiaLoyalist/Gloyalists" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">View Network Map</a>
     </div>
