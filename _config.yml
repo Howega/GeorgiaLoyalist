@@ -14,23 +14,21 @@ nav-menu:
   - title: Home
     link: index
   - title: History
-    link: background
     submenu:
-      - title: Loyalists
-        link: 
-      - title: Savannah 
-        link: 
+      - title: Revolutionary Georgia
+        link: background
+      - title: American Loyalists
+        link: american loyalists
   - title: Projects 
     submenu:
       - title: Georgia Loyalists
-        link: loyalists 
+        link: georgia loyalists 
       - title: Trade Connections
-        link: trade 
+        link: trade connections 
   - title: About
-    link: bio
       submenu:
       - title: About the Project 
-        link: methods 
+        link: About the Project 
       - title: Bibliography
         link: bibliography 
      
