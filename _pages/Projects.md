@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: projects
+title: Loyalists
+permalink: loyalists
 show-title: true
 ---
 
