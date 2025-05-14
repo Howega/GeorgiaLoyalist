@@ -7,6 +7,8 @@ show-title: true
 
 Much of the research for the Georgia Loyalists visualization was based on data drawn from Ancestry.com’s UK, American Loyalist Claims, 1776–1835, a digitized collection of petitions submitted by displaced Loyalists seeking compensation from the British government. These records, preserved at The National Archives (UK), offered detailed insights into the names, locations, property losses, and affiliations of those exiled from Georgia. For the Trade Connections map, I relied on trade and shipping data found in the appendix of Rosemary Hynes’ dissertation, “The Mask of Liberty: The Making of Freeholder Democracy in Revolutionary Georgia.” While trade was not the central focus of her work, her compiled data offered a valuable snapshot of Georgia’s commercial patterns during the revolutionary era. To accurately reconstruct parish boundaries, I drew from an 18th-century map in the David Rumsey Map Collection, and many of the visual materials—such as political cartoons and period illustrations—were sourced from The National Archives (UK) and the Library of Congress, providing historical texture throughout the site.
 
+---
+
 Bowen, Eman. A New Map of Georgia with Par of Carolina, Florida and Louisiana. Drawn from Original Draughts. Assisted by the Most Approved Maps and Charts. 1748. Digital, 1851x1427. Georgia Digital Map Library. The USGenWeb Archives Project. http://www.usgwarchives.net/maps/georgia/statemap/georgia-1748.jpg.
 
 Breen, T. H. “‘Baubles of Britain’: The American and Consumer Revolutions of the Eighteenth Century.” Past & Present, no. 119 (1988): 73–104.
