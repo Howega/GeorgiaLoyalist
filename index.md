@@ -15,13 +15,25 @@ show-title: false
     </p>
   </div>
 
-  <!-- Centered Image block -->
-  <div class="w-full flex justify-center mb-12">
-    <div class="max-w-4xl">
-      <img src="assets/img/Savannah.jpg" alt="Map of Georgia, 1779" class="rounded-xl shadow-lg mx-auto">
+ <!-- Side-by-side images block -->
+<div class="w-full flex justify-center mb-12">
+  <div class="flex flex-col md:flex-row gap-6 max-w-5xl w-full items-center justify-center">
+    
+    <!-- Savannah map -->
+    <div class="flex-1">
+      <img src="assets/img/Savannah.jpg" alt="Map of Savannah, 1733" class="rounded-xl shadow-lg w-full">
       <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
     </div>
+
+    <!-- Additional image -->
+    <div class="flex-1">
+      <img src="assets/img/YOUR-SECOND-IMAGE.jpg" alt="Second image description" class="rounded-xl shadow-lg w-full">
+      <p class="text-center text-sm text-gray-500 mt-2">[Your second image caption]</p>
+    </div>
+
   </div>
+</div>
+
 
   <!-- History Links Section -->
   <div class="flex flex-col sm:flex-row gap-4 max-w-5xl w-full justify-center mb-8">
