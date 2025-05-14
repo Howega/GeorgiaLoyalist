@@ -27,7 +27,7 @@ show-title: false
 
     <!-- Additional image -->
     <div class="flex-1">
-      <img src="assets/img/YOUR-SECOND-IMAGE.jpg" alt="Second image description" class="rounded-xl shadow-lg w-full">
+      <img src="assets/img/loyalist.jpeg" alt="A Captured Loyalist" class="rounded-xl shadow-lg w-full">
       <p class="text-center text-sm text-gray-500 mt-2">[Your second image caption]</p>
     </div>
 
