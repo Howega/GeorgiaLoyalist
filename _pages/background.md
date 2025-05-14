@@ -13,8 +13,9 @@ show-title: true
 <p>
 By the eve of the American Revolution, Georgia had transformed from a struggling frontier outpost into a growing plantation society. Originally established in 1732 as a utopian buffer against Spanish Florida, the colony abandoned its founding ideals by mid-century. The legalization of slavery in 1750 and the transition to royal governance in 1752 accelerated its integration into the plantation economy of the Lower South.
   
-Economic growth was centered around two emerging urban hubs: Savannah, the royal capital and key Atlantic port, and Augusta, a frontier town turned deerskin trade center on the edge of Creek territory. Savannah thrived on rice and indigo exports, benefiting from its proximity to Caribbean trade networks and enslaved labor. Augusta’s location near Native lands made it a vital post for Indian diplomacy and commerce, attracting traders and settlers alike.
 </p>
+
+Economic growth was centered around two emerging urban hubs: Savannah, the royal capital and key Atlantic port, and Augusta, a frontier town turned deerskin trade center on the edge of Creek territory. Savannah thrived on rice and indigo exports, benefiting from its proximity to Caribbean trade networks and enslaved labor. Augusta’s location near Native lands made it a vital post for Indian diplomacy and commerce, attracting traders and settlers alike.
 
 What made Georgia unique among the thirteen colonies was its youth, its rapid population growth, and its deep economic ties to both Britain and Native nations. As the newest and least populated colony, Georgia maintained stronger loyalties to the Crown longer than most. Its royal governor, James Wright, retained control of Savannah well into 1776, and many of the colony’s merchants, planters, and Anglican elites feared that rebellion would threaten slavery, trade, and security.
 
