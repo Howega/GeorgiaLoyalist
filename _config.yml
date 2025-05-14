@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
-baseurl: "/GeorgiaLoyalist" # the name of your github repo
-url: "https://Howega.github.io" # the url of your github pages (change BCDigSchol to your username)
+baseurl: "/jekyll-project-template" # the name of your github repo
+url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
 title: "On the Edge of Revolution"
