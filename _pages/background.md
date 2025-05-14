@@ -11,7 +11,7 @@ show-title: true
   
 Economic growth was centered around two emerging urban hubs: Savannah, the royal capital and key Atlantic port, and Augusta, a frontier town turned deerskin trade center on the edge of Creek territory. Savannah thrived on rice and indigo exports, benefiting from its proximity to Caribbean trade networks and enslaved labor. Augusta’s location near Native lands made it a vital post for Indian diplomacy and commerce, attracting traders and settlers alike.
 
-<p align="center">
+<p align="right">
     <img src="assets/img/Georgiamap1748.jpeg" />
 </p>
 
