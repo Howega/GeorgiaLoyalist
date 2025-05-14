@@ -1,11 +1,9 @@
 ---
 layout: page
-title: History
+title: REVOLUTIONARLY GEORGIA
 permalink: background
 show-title: true
 ---
-
-**INTRODUCTION TO REVOLUTIONARLY GEORGIA**
 
 <p align="right">
     <img src="assets/img/Georgiamap1748.jpeg" alt="Descriptive alt text"
