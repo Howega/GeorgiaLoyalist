@@ -6,10 +6,10 @@ show-title: true
 ---
 
 <div class="w-full flex flex-col md:flex-row items-center md:items-start gap-6 max-w-5xl mx-auto mb-12">
-  <!-- Image on the left -->
+  <!-- Image on the left with better size -->
   <img src="{{ '/assets/img/IMG_0528.JPG' | relative_url }}"
        alt="Garrett Howe"
-       class="rounded-xl shadow-lg w-[180px] h-auto">
+       class="rounded-xl shadow-lg w-[160px] md:w-[180px] h-auto">
 
   <!-- Text on the right -->
   <p class="text-gray-700 text-lg leading-relaxed">
