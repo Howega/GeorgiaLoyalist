@@ -6,12 +6,11 @@ show-title: false
 
 # **Explore the origins of a New Nation through the experiences of Revolutionary Georgia.**
 
+![View of Savannah as it stood the 29th March,1734](assets/img/Savannah.jpg)
+
 Wedged between two colonies on opposites sides of the Revolution, geographically, Georgia is unique in the history of the American Revolution. If we consider the conflict as a civil war, that is no colony in which this rang more true than in Georgia. . .  Use these visualizations to learn about the broad influences which pushed Georgians to take sides in this imperial crisis. 
 
 This project is the culmination of two difference investigations into lenses in which to investigate how loyalties are made during the American Revolution. “On the Edge of Revolution” helps us visualize how geography, economics, and trade help shape cultural connections and divide a young English colony living on the edge of revolution. 
-
-![View of Savannah as it stood the 29th March,1734](assets/img/Savannah.jpg) | ![0875005](https://github.com/user-attachments/assets/a94e7163-4a71-499c-a57e-fafe03aa6bf0)
-
 
 ---
 
