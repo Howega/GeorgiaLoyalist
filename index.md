@@ -15,20 +15,24 @@ show-title: false
     </p>
   </div>
 
- <!-- Side-by-side images block -->
+<!-- Side-by-side images block with uniform size -->
 <div class="w-full flex justify-center mb-12">
   <div class="flex flex-col md:flex-row gap-6 max-w-5xl w-full items-center justify-center">
-    
+
     <!-- Savannah map -->
     <div class="flex-1">
-      <img src="assets/img/Savannah.jpg" alt="Map of Savannah, 1733" class="rounded-xl shadow-lg w-full">
-      <p class="text-center text-sm text-gray-500 mt-2"></p>
+      <div class="overflow-hidden rounded-xl shadow-lg h-[300px] w-full">
+        <img src="assets/img/Savannah.jpg" alt="Map of Savannah, 1733" class="object-cover w-full h-full">
+      </div>
+      <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
     </div>
 
-    <!-- Additional image -->
+    <!-- Loyalist engraving -->
     <div class="flex-1">
-      <img src="assets/img/loyalist.jpeg" alt="A Captured Loyalist" class="rounded-xl shadow-lg w-full">
-      <p class="text-center text-sm text-gray-500 mt-2"></p>
+      <div class="overflow-hidden rounded-xl shadow-lg h-[300px] w-full">
+        <img src="assets/img/loyalist.jpeg" alt="A Captured Loyalist" class="object-cover w-full h-full">
+      </div>
+      <p class="text-center text-sm text-gray-500 mt-2">A Captured Loyalist (18th-century engraving)</p>
     </div>
 
   </div>
