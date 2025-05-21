@@ -5,8 +5,8 @@ show-title: false
 ---
 
 <div class="w-full flex flex-col items-center justify-start px-4 py-10 bg-gray-50">
-  <div class="max-w-5xl text-center mb-12">
-    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Loyalism in Revolutionary Georgia</h1>
+  <div class="max-w-5xl mb-12">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 text-center w-full">Loyalism in Revolutionary Georgia</h1>
     <p class="text-lg text-gray-700 leading-relaxed">
       This project investigates Georgia during the American Revolution.
       While most historical treatments of Loyalism have focused on New York or the Carolinas, Georgia has often been overlooked—despite being the
