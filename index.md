@@ -15,26 +15,14 @@ show-title: false
     </p>
   </div>
 
-<!-- Side-by-side images block with uniform size -->
-<div class="w-full flex justify-center mb-12">
-  <div class="flex flex-col md:flex-row gap-6 max-w-5xl w-full items-center justify-center">
-
-    <!-- Savannah map -->
-    <div class="flex-1">
-      <div class="overflow-hidden rounded-xl shadow-lg h-[300px] w-full">
-        <img src="assets/img/Savannah.jpg" alt="Map of Savannah, 1733" class="object-cover w-full h-full">
-      </div>
-      <p class="text-center text-sm text-gray-500 mt-2">Map of Savannah (c. 1733)</p>
-    </div>
-
-    <!-- Loyalist engraving -->
-    <div class="flex-1">
-      <div class="overflow-hidden rounded-xl shadow-lg h-[300px] w-full">
-        <img src="assets/img/loyalist.jpeg" alt="A Captured Loyalist" class="object-cover w-full h-full">
-      </div>
-      <p class="text-center text-sm text-gray-500 mt-2">A Captured Loyalist (18th-century engraving)</p>
-    </div>
-
+  <!-- Concluding paragraph -->
+  <div class="max-w-4xl text-center">
+    <h2 class="text-2xl font-bold text-gray-900 mb-4">Why It Matters</h2>
+    <p class="text-lg text-gray-700 leading-relaxed">
+      This project challenges traditional narratives of American unity by recovering the voices and choices of those who remained loyal to the British Crown. 
+      Through visualization and the mapping of commercial and cultural ties, it sheds light on the civil conflict that defined the Revolution in Georgia and helps contextualize 
+      the broader complexities of allegiance in the American South.
+    </p>
   </div>
 </div>
 
@@ -70,15 +58,4 @@ show-title: false
       <a href="/GeorgiaLoyalist/trade" class="bg-black text-white px-5 py-2 rounded-xl hover:bg-gray-800 transition">View Trade Networks</a>
     </div>
   </div>
-
-  <!-- Concluding paragraph -->
-  <div class="max-w-4xl text-center">
-    <h2 class="text-2xl font-bold text-gray-900 mb-4">Why It Matters</h2>
-    <p class="text-lg text-gray-700 leading-relaxed">
-      This project challenges traditional narratives of American unity by recovering the voices and choices of those who remained loyal to the British Crown. 
-      Through visualization and the mapping of commercial and cultural ties, it sheds light on the civil conflict that defined the Revolution in Georgia and helps contextualize 
-      the broader complexities of allegiance in the American South.
-    </p>
-  </div>
-</div>
 
